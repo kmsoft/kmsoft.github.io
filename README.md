@@ -1,2 +1,2 @@
 # sofianekaramostefa.github.io
-personal website, TIL, resume
+Personal website, TIL and resume
